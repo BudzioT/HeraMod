@@ -486,3 +486,10 @@ Nowe odpowiedzi można zobaczyć w zdjęciach podanych w readme repozytorium zna
 ## Podsumowanie
 
 Trening LLM jest tak naprawdę najważniejszą częścią, nawet stojącą blisko samemu napisaniu kodu. W końcu niewytrenowany model, nawet dobrze napisany, nic nie zrobi. Proces ten wymaga czasu, zasobów i cierpliwości, ale efekty są warte wysiłku. Dzięki treningowi model staje się użyteczny, dostosowany do konkretnych zadań i niezależny od zewnętrznych dostawców.
+
+## Źródła
+- "Build a Large Language Model (From Scratch)" Sebastian Raschka
+- https://www.reddit.com/r/MachineLearning/
+- https://masteringllm.medium.com/llm-training-a-simple-3-step-guide-you-wont-find-anywhere-else-98ee218809e5
+- https://huggingface.co/blog/mlabonne/llm-course
+- https://biznesmysli.pl/fine-tuning-llm-fakty-i-mity/
